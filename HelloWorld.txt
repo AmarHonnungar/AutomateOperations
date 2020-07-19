@@ -1,4 +1,4 @@
-//SAMPLE code
+//SAMPLE code again
 import java.util.*;
 class GetDateAndTime
 {
